@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilidl-nft
-- 👀 I’m interested in development and DevOps.
-- 🌱 I’m currently learning Javascript & Cloud admin.
+- 👀 I’m interested in Cloud and DevOps.
+- 🌱 I’m currently learning Python🐍 and preparing for the GCP Cloud engineer Certification.
 
 - 📚 You could see some courses I've taken at https://learn.acloud.guru/profile/lilidl
 <!---
