@@ -2,7 +2,7 @@
 
 - 👩‍💻 The fields of development and data science fascinate me, and I can't wait to put my skills to use by creating robust and scalable applications. 
 
-- 🌱 Currently, I'm immersing myself in Python🐍 programming, enhancing my understanding of the language and its application in various fields. 
+- 🌱 Currently, I'm learning Python🐍, enhancing my understanding of the language and its application in various fields. 
 
 - 🎓 I'm always looking for new ways to learn and grow as a professional.
 
