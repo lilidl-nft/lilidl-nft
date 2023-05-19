@@ -4,7 +4,7 @@
 
 - 🎓 I'm always looking for new ways to learn and grow as a professional.
 
-- 📚 You can check out some of the [courses](https://www.codecademy.com/profiles/Lili_DL) I've completed.
+- 📚 You can check out some of the courses I've completed [HERE](https://www.codecademy.com/profiles/Lili_DL)
 
 <!---
 lilidl-nft/lilidl-nft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
