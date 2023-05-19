@@ -1,8 +1,6 @@
 👋 Hi there!, I’m @lilidl-nft.
 
-- 👩‍💻 The fields of development and data science fascinate me, and I can't wait to put my skills to use by creating robust and scalable applications. 
-
-- 🌱 Currently, I'm learning Python🐍, enhancing my understanding of the language and its application in various fields. 
+- 🌱 Currently, I'm learning Python🐍 and data science 🔢.
 
 - 🎓 I'm always looking for new ways to learn and grow as a professional.
 
