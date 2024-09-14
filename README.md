@@ -1,10 +1,8 @@
 👋 Hi there!, I’m @lilidl-nft.
 
-- 🌱 Currently, I'm learning Python🐍 and data science 🔢.
+- 🌱 Currently, I'm learning Java and Dart.
 
-- 🎓 I'm always looking for new ways to learn and grow as a professional.
-
-- 📚 You can check out some of the courses I've completed [here✨](https://www.codecademy.com/profiles/Lili_DL)
+- 🎓 I'm always looking for new ways to learn and grow professionally.
 
 <!---
 lilidl-nft/lilidl-nft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
