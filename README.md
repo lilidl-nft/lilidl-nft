@@ -1,6 +1,6 @@
 👋 Hi there!, I’m @lilidl-nft.
 
-- 🌱 Currently, I'm learning Java and Dart.
+- 🌱 Currently, I'm learning Python and AI.
 
 - 🎓 I'm always looking for new ways to learn and grow professionally.
 
